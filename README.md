@@ -16,3 +16,7 @@ How to Run the Frontend Application
 
 ### `npm start`
 
+
+
+The application will start and be available at http://localhost:3000 by default. Ensure the backend is running for full functionality.
+
